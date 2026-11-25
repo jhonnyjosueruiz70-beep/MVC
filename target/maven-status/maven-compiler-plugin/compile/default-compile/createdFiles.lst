@@ -1,0 +1,7 @@
+ec\edu\espoch\mvc\MODELO\Operaciones.class
+ec\edu\espoch\mvc\CONTRLOADOR\vista.class
+ec\edu\espoch\mvc\VISTA\Vista.class
+ec\edu\espoch\mvc\MVC.class
+ec\edu\espoch\mvc\CONTRLOADOR\ControladorOperaciones.class
+ec\edu\espoch\mvc\MODELO\InterfaceOperacion.class
+ec\edu\espoch\mvc\MODELO\Operacion.class
